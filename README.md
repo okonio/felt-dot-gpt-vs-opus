@@ -45,7 +45,7 @@ Most of the bundle is Three.js itself. The line counts include GLSL.
 You need Node.js 22.12+ (required by Vite 8) and a browser with WebGL.
 
 ```sh
-git clone https://github.com/<your-username>/felt-dot-gpt-vs-opus.git
+git clone https://github.com/okonio/felt-dot-gpt-vs-opus.git
 cd felt-dot-gpt-vs-opus
 
 # GPT 6.1 Sol → http://localhost:5173
